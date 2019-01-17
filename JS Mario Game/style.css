@@ -1,0 +1,23 @@
+#canvas {
+	background: black;
+	height: 600px;
+	width: 600px;
+	
+}
+
+body {
+	margin: 0;
+}
+
+#instructions{
+	
+	font-size: 40px;
+	margin-left: 200px;
+	text-decoration: underline;
+	font-family: 'Baloo Bhai', cursive;
+}
+
+#list {
+	margin-left: 175px;
+	font-family: 'Baloo Bhai', cursive;
+}
